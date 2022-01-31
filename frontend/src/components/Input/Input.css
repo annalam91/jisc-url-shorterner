@@ -1,0 +1,45 @@
+.inputs {
+    position: fixed;
+    display: flex;
+    margin-top: 6%;
+    left: 40%;
+}
+
+.input-text {
+    margin-right: 200px;
+}
+
+.input-button {
+    position: fixed;
+    display: flex;
+    height: 55px;
+    left: 1%;
+}
+
+.submit-response {
+    position: fixed;
+    display: flex;
+    margin-top: 12%;
+    left: 49%;
+    color: #008000;
+}
+
+.shortUrl-text {
+    position: fixed;
+    display: flex;
+    left: 42%;
+}
+
+.error-text {
+    position: fixed;
+    display: flex;
+    left: 42%;
+    color: #ff0000;
+}
+
+.hint-text {
+    position: fixed;
+    display: flex;
+    left: 42%;
+
+}
